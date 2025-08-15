@@ -1,0 +1,219 @@
+<svg
+   version="1.1"
+   width="64px"
+   height="64px"
+   viewBox="0 0 65.649 112.5"
+   enable-background="new 0 0 65.649 112.5"
+   xml:space="preserve"
+   id="svg22"
+   sodipodi:docname="wSilo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs22"><linearGradient
+     id="linearGradient1"
+     gradientUnits="userSpaceOnUse"
+     x1="1.689"
+     y1="99.759804"
+     x2="63.848099"
+     y2="99.759804">
+		<stop
+   offset="0"
+   style="stop-color:#000000"
+   id="stop1-9" />
+		<stop
+   offset="0.52"
+   style="stop-color:#000000"
+   id="stop2-6" />
+		<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop3-4" />
+	</linearGradient><linearGradient
+     id="linearGradient2"
+     gradientUnits="userSpaceOnUse"
+     x1="1.689"
+     y1="53.041"
+     x2="63.848099"
+     y2="53.041">
+		<stop
+   offset="0"
+   style="stop-color:#000000"
+   id="stop4-0" />
+		<stop
+   offset="0.45"
+   style="stop-color:#000000"
+   id="stop5-8" />
+		<stop
+   offset="0.55"
+   style="stop-color:#000000"
+   id="stop6-2" />
+		<stop
+   offset="0.76"
+   style="stop-color:#000000"
+   id="stop7-8" />
+		<stop
+   offset="0.77"
+   style="stop-color:#000000"
+   id="stop8-9" />
+		<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop9-0" />
+	</linearGradient></defs><sodipodi:namedview
+   id="namedview22"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="6.3515625"
+   inkscape:cx="10.233702"
+   inkscape:cy="47.468635"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg22" />
+<g
+   id="Group_TankBody"
+   transform="matrix(1.818552,0,0,1.1979168,-26.822723,-22.265054)">
+	
+	<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="1.689"
+   y1="99.759804"
+   x2="63.848099"
+   y2="99.759804">
+		<stop
+   offset="0"
+   style="stop-color:#000000"
+   id="stop1" />
+		<stop
+   offset="0.52"
+   style="stop-color:#000000"
+   id="stop2" />
+		<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop3" />
+	</linearGradient>
+	<path
+   fill="url(#SVGID_1_)"
+   d="M 1.689,87.023 H 63.848 L 42.227,112.497 H 23.31 L 1.689,87.273"
+   id="path3"
+   style="fill:url(#SVGID_1_)" />
+	<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="1.689"
+   y1="53.041"
+   x2="63.848099"
+   y2="53.041">
+		<stop
+   offset="0"
+   style="stop-color:#000000"
+   id="stop4" />
+		<stop
+   offset="0.45"
+   style="stop-color:#000000"
+   id="stop5" />
+		<stop
+   offset="0.55"
+   style="stop-color:#000000"
+   id="stop6" />
+		<stop
+   offset="0.76"
+   style="stop-color:#000000"
+   id="stop7" />
+		<stop
+   offset="0.77"
+   style="stop-color:#000000"
+   id="stop8" />
+		<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop9" />
+	</linearGradient>
+	<path
+   fill="url(#SVGID_2_)"
+   d="M 1.689,87.273 V 18.809 H 63.848 V 87.274 H 1.689"
+   id="path9"
+   style="fill:url(#SVGID_2_)" />
+</g><g
+   id="Seviye"
+   transform="matrix(1.818552,0,0,1.2038248,-26.977029,-22.536797)">
+	
+	<linearGradient
+   id="linearGradient12"
+   gradientUnits="userSpaceOnUse"
+   x1="1.689"
+   y1="99.759804"
+   x2="63.848099"
+   y2="99.759804">
+		<stop
+   offset="0"
+   style="stop-color:#000000"
+   id="stop10" />
+		<stop
+   offset="0.52"
+   style="stop-color:#000000"
+   id="stop11" />
+		<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop12" />
+	</linearGradient>
+	<path
+   fill="url(#SVGID_1_)"
+   d="M 1.689,87.023 H 63.848 L 42.227,112.497 H 23.31 L 1.689,87.273"
+   id="path3-3"
+   style="fill:#ff0000" />
+	<linearGradient
+   id="linearGradient18"
+   gradientUnits="userSpaceOnUse"
+   x1="1.689"
+   y1="53.041"
+   x2="63.848099"
+   y2="53.041">
+		<stop
+   offset="0"
+   style="stop-color:#000000"
+   id="stop13" />
+		<stop
+   offset="0.45"
+   style="stop-color:#000000"
+   id="stop14" />
+		<stop
+   offset="0.55"
+   style="stop-color:#000000"
+   id="stop15" />
+		<stop
+   offset="0.76"
+   style="stop-color:#000000"
+   id="stop16" />
+		<stop
+   offset="0.77"
+   style="stop-color:#000000"
+   id="stop17" />
+		<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop18" />
+	</linearGradient>
+	<path
+   fill="url(#SVGID_2_)"
+   d="M 1.689,87.273 V 18.809 H 63.848 V 87.274 H 1.689"
+   id="path9-3"
+   style="fill:#ff0000" />
+</g>
+
+
+
+</svg>
